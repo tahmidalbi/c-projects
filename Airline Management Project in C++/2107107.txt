@@ -1,0 +1,45 @@
+Welcome to XYZ AIRLINES. Please signup to get started with
+Enter name,ID,phone number & password to signup:
+Albi Al 2263 xsw
+Account created successfully
+Enter ID and password to login
+Al xsw
+Login successful
+Press 1 to buy ticket
+Press 2 to logout
+1
+These are the available flights with prices:
+Dubai       50000
+Singapore       60000
+Paris       70000
+London       40000
+Texas       49000
+Enter destination
+Dubai
+How many tickets do you want to buy:
+3
+Total price: 150000
+Enter name,address and phone number
+Albi Wari 2263
+Lavina Banani 2252
+Rahikim Mirpur 6767
+Tickets successfully bought
+Here are the ticket details:
+Name    Albi    Address Wari    Phone number    2263
+Name    Lavina  Address Banani  Phone number    2252
+Name    Rahikim Address Mirpur  Phone number    6767
+Press 1 to cancel ticket. Press 0 to go back to the main menu
+1
+Enter name to cancel ticket. Please note that first ticket you bought cannot be cancelled and you can cancel only one ticket
+Lavina
+Now total price:80000
+Ticket successfully cancelled
+Here are the remaining ticket details:
+Name    Albi    Address Wari    Phone number    2263
+Name    Rahikim Address Mirpur  Phone number    6767
+Press 1 to buy ticket
+Press 2 to logout
+2
+Logged out successfully. Have a good day.
+Process returned 0 (0x0)   execution time : 107.758 s
+Press any key to continue.
